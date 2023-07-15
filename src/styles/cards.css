@@ -1,0 +1,69 @@
+.cardHeight {
+    height: 450px !important;
+    text-align: center;
+}
+
+.welcomeCard {
+    width: 950px;
+    text-align: center;
+    opacity: 0.8;
+}
+
+.inputPokemon {
+    background-color: #000000 !important;
+    color: #ffffff !important;
+}
+
+.infoCard {
+    text-align: center;
+   background-image: url('../assets/images/card.jpg');
+    width: 300px !important;
+    color: #120101;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.titleInfo {
+    margin-top: 35px;
+    margin-bottom: 20px;
+}
+
+.titleHabily {
+    margin-top: 65px;
+}
+
+.cardHability {
+    background-color: #595756 !important;
+    color: #ffffff;
+}
+
+.cardStats {
+    background-color: #1b1ee7 !important;
+    color: #ffffff;
+}
+.img-logo{
+    width: 300px;
+    
+}
+
+.img-pok{
+    width: 100px;
+    
+}
+.container-log-pok{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    justify-content: center;
+}
+.text-title{
+    font-size: 50px;
+}
+.buton{
+    background-image: url('../assets/images/logo.jpg') !important;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
